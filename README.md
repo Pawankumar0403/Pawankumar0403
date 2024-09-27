@@ -19,7 +19,7 @@ B.Sc Computer Science Student
 <img width="50" height="50" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/50/github.png" alt="github"/> <img width="50" height="50" src="https://img.icons8.com/dusk/50/postman-api.png" alt="postman-api"/> 
 
 ### 💻 Workspace Spec
-<img alt="Static Badge" src="https://img.shields.io/badge/Acer%20Aspire%20A315-53?style=for-the-badge&logo=acer&logoColor=white&color=red"> <img alt="Static Badge" src="https://img.shields.io/badge/Intel%20Core%20i3-7020U?style=for-the-badge&logo=Intel&logoColor=white&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Acer%20Aspire%20A315-53?style=for-the-badge&logo=acer&logoColor=white&color=red"> <img alt="Static Badge" src="https://img.shields.io/badge/Intel%20Core%20i3?style=for-the-badge&logo=Intel&logoColor=white&color=blue">
 
 ### 📈 Pawankumar's github activity graph
 [![Pawankumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pawankumar0403&bg_color=000000&color=ffffff&line=2be937&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
