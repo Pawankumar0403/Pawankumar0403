@@ -7,7 +7,7 @@ B.Sc Computer Science Student
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web Development/MERN Stack Development
 - 📫 How to reach me :
-  <br/>[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/follow-us-on-linkedin-icon.png"](www.linkedin.com/in/pawankumar0403)
+  <br/>[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/follow-us-on-linkedin-icon.png"/>](www.linkedin.com/in/pawankumar0403)
 
 
 - 😄 Pronouns: Techie
