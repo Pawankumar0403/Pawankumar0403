@@ -4,7 +4,7 @@ B.Sc Computer Science Student
 <img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR5Nm5ucjltYjljNW03am9ob283M283eXJzYm56Njd0enJzZXVlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
 - 📝 Here's my [portfolio](https://my-portfolio-five-chi-61.vercel.app/)
 - 🙋‍♂️ I’m interested in Web Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Development/MERN Stack Development
 - 📫 How to reach me :
   <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pawankumar0403/)
